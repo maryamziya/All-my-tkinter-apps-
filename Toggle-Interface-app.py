@@ -38,7 +38,6 @@
 # -----
 #
 # ### Step 3: Define the Functions
-#
 # 1.  **Define the `update_volume_label` Function:**
 #       * Create a function named `update_volume_label` that takes one argument (this argument will automatically be the current value of the scale when the scale is moved).
 #       * Inside the function, update the text of the **Volume Label** to show the new value.
